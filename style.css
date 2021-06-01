@@ -1,0 +1,19 @@
+body{
+  border-style:hidden;
+  background-image: url("https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+}
+.navbar{background-color:rgba(22, 195, 218, 0.2)}
+
+.header{
+  position: absolute;
+  z-index: 1000;
+  top: 100px;
+  left: 6a00px;
+  font-family:  "Times New Roman",Times, serif;
+  color: rgb(2, 51, 59);
+  
+
+  
+}
